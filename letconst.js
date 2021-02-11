@@ -10,7 +10,7 @@ numbers.pop();
 const nayok = {name:'sakib khan', phone: 2353};
 console.log(numbers);
 let sum = 0;
-for( var i = 0; i<10; i++){
+for(var i = 0; i<10; i++){
     sum = sum + i;
 }
 console.log(i);
